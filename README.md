@@ -34,6 +34,15 @@ Here is how the streamlined system works:
 
 ## Bill of Materials (BOM)
 
+| # | Item | Qty | Total (CAD) | Total (USD) | Unit Price (USD) | Link |
+|---|------|-----|-------------|-------------|------------------|------|
+| 1 | One-Way Valve | 5 pcs | $7.45 | $5.36 | $1.07 | [AliExpress](https://www.aliexpress.com/item/1005011755662649.html) |
+| 2 | Hand Pump | 1 pc | $5.83 | $4.20 | $4.20 | [AliExpress](https://www.aliexpress.com/item/1005006471834289.html) |
+| | **Total** | | **$13.28** | **$9.56** | | |
+
+## Notes
+- The one-way valve price is for a pack of 5 (~$0.21 USD each).
+- Tax is included in both prices.
 
 ---
 

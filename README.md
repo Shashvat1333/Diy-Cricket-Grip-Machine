@@ -25,7 +25,7 @@ Here is how the streamlined system works:
 
 ## Getting Started
 
-1. **Download the CAD Files:** Download the 3D models from the [CAD folder](https://github.com/Shashvat1333/Diy-Cricket-Grip-Machine/tree/main/CAD).
+1. **Download the CAD Files:** Download the 3D models from the [CAD folder](https://github.com/Shashvat1333/Diy-Cricket-Grip-Machine/tree/main/CAD). [View Onshape Model](https://cad.onshape.com/documents/6bd545eb6b8de829bdead483/w/cdbd6ac044726cc7e3085e07/e/91f4c85f78cc1a84885944af?renderMode=0&uiState=6aeff87bc55e9899ea6e2543)
 2. **Print the Parts:** Import the STL files into your preferred slicer (such as PrusaSlicer) and send them to your 3D printer.
 3. **Assemble the Chamber:** Join the printed components using super glue or hot glue, ensuring all seams and fitting joints are completely airtight.
 4. **Test & Verify:** Power up the system and verify that the design pulls the grip flat against the inner tube walls. If it fails to hold suction, inspect all pneumatic connections and valve joints for leaks, then apply additional sealant as needed.

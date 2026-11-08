@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/h4jdyo0qlaqw0drn78okzhvx)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I am making a portable Gripping Machine that will allow me to put grips on my cricket bat without need to use a gripping cone
+> I am making a portable Gripping Machine that will allow me to put grips on my cricket bat without need to use a gripping cone. DEMO LINK:  https://cad.onshape.com/documents/6bd545eb6b8de829bdead483
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
